@@ -5,7 +5,7 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 
 Technology Used/n
-Programming Language - Python
+Programming Language - Python\n
 Amazon Web Service (AWS)
 S3 (Simple Storage Service)
 Athena
